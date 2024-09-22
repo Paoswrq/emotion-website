@@ -60,6 +60,9 @@ img:hover {
 
 .legend {
   position: absolute;
+  display: flex;
+  justify-content: center;
+  align-item: center;
   width: 10%;
   border: 3px solid #0132;
   top: 80px;
